@@ -217,7 +217,7 @@ body {
 @media only screen and (max-width: 412px) {
     .title {
         color: white;
-        font-size: 15px;
+        font-size: 10px;
         font-family: 'Fasthand', cursive;
         text-shadow: 5px 5px 5px cyan;
 
@@ -227,7 +227,7 @@ body {
 
     .title:hover {
         color: white;
-        font-size: 15px;
+        font-size: 10px;
         font-family: 'Fasthand', cursive;
         text-shadow: 5px 5px 5px wheat;
 

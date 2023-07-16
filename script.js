@@ -18,7 +18,7 @@ function fawhatsapp() {
         + " " + "%0a"
         + "---------------------" + "%0a"
         + " " + "%0a"
-        + "*Contact Titile*" + "%0a"
+        + "*Contact Title*" + "%0a"
         + document.getElementById('batch').value + "-" + document.getElementById('name').value + "-" + document.getElementById('cast').value + "-" + "(" + document.getElementById('class').value + ")" + "-" + document.getElementById('area').value + "%0a"
 
 
@@ -49,7 +49,7 @@ function mawhatsapp() {
         + " " + "%0a"
         + "---------------------" + "%0a"
         + " " + "%0a"
-        + "*Contact Titile*" + "%0a"
+        + "*Contact Title*" + "%0a"
         + document.getElementById('batch').value + "-" + document.getElementById('name').value + "-" + document.getElementById('cast').value + "-" + "(" + document.getElementById('class').value + ")" + "-" + document.getElementById('area').value + "%0a"
 
 
